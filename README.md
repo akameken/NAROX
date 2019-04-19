@@ -16,4 +16,4 @@ npm install <packagename>
 # Smartu.
 [![Smartu](https://discordapp.com/api/guilds/565645739229839400/widget.png?style=banner2)](https://discord.gg/enYY7HP)
 
-` This bot should be better discord bot .  `
+` Coming Soon OwO `
