@@ -7,7 +7,8 @@ Discord Bot With some Customizable options and new Styles , u should try that ma
 # Installition.
 1 -The Bot is Writted and runned by node.js download that [Node.js](https://nodejs.org/en/download/)
 2 - press clone or download button and launch!
-'sometimes you need to install packages so try'```js
+'sometimes you need to install packages so try'
+```js
 npm install <packagename>
 ```
 # Smartu.
