@@ -25,7 +25,14 @@ Discord Bot With some Customizable options and new Styles , u should try that ma
 ```fix
 npm install <packagename>
 ```
+# Help ? 
+
+if You Need Help Dm Me on Discord Tag; `A K A M E 夢#5555`
+or request Issues!
 # Smartu.
 [![Smartu](https://discordapp.com/api/guilds/565645739229839400/widget.png?style=banner2)](https://discord.gg/enYY7HP)
 
 ` Coming Soon OwO `
+
+
+"Abady Is Best Arabic Developer man !"
