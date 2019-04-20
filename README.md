@@ -33,7 +33,7 @@ if You Need Help Dm Me on Discord Tag; `A K A M E 夢#5555`
 or request Issues!
 # Smartu.
 [![Smartu](https://discordapp.com/api/guilds/565645739229839400/widget.png?style=banner2)](https://discord.gg/enYY7HP)
-
+[![Smartu 🌀](https://bots.ondiscord.xyz/bots/562027575149461506/embed?theme=dark&showGuilds=true)](https://bots.ondiscord.xyz/bots/562027575149461506)
 ` Coming Soon OwO `
 
 
